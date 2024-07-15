@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next">volgende</string>
+    <string name="privacy_policy_agree_request">Voordat je verder gaat, denk aan onze </string>
+    <string name="privacy_policy">privacy policy</string>
+    <string name="app_name">Taalschakel</string>
+    <string name="welcome">Welkom in de app!</string>
+    <string name="language_setting">Current language: %1$s</string>
+</resources>

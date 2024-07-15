@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Language Switcher</string>
+    <string name="next">next</string>
+    <string name="privacy_policy_agree_request">please make sure you agree with our </string>
+    <string name="privacy_policy">privacy policy</string>
+    <string name="welcome">Welcome to the app!</string>
+    <string name="language_setting">Huidige taal: %1$s</string>
+</resources>
